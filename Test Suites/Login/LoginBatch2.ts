@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>LoginBatch2</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>fb4d3604-e16a-4482-b5e4-1ce7ea0fbdc8</testSuiteGuid>
+   <testCaseLink>
+      <guid>e4ab93a2-60ef-44cb-bf4d-2a6fe985bf48</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Partner Portal/RegistrationLoginPage/LoginBatch2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>375ad4e8-b547-4d7c-9126-9e089cb23f28</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Credentials/LoginBatch2</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>375ad4e8-b547-4d7c-9126-9e089cb23f28</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>1af07da0-5990-4f11-ab67-86587d2eee13</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>375ad4e8-b547-4d7c-9126-9e089cb23f28</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>91a140ea-94d1-4fd4-bc5b-ae29d2a9b527</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginBatch2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60a8c002-e6fa-40c0-a86e-e4232ba99d00</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0ad64a5d-78cd-483e-aa73-8ba775a6724d</id>
+      <masked>false</masked>
+      <name>Username2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>06ea7657-a7e1-42fd-bbbb-b16908eabed0</id>
+      <masked>false</masked>
+      <name>Password2</name>
+   </variable>
+</TestCaseEntity>

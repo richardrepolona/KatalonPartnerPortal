@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigation, Selecting Roles, Editing User and Filter Functions</description>
+   <name>User Managerments</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d224a4a5-17f0-4950-a5c6-2bbe2f5c6a89</testCaseGuid>
+</TestCaseEntity>
